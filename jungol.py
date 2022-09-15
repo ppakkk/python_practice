@@ -56,5 +56,16 @@
 # print("avg", math.trunc((90+80+100)/3))
 
 #변수와 입력 - 자가진단 1
-a =-100
+# a=-100
+# print(a)
+
+#변수와 입력 - 자가진단 2
+# a=-1
+# b=100
+# print(a)
+# print(b)
+
+#변수와 입력 - 자가진단 3
+a = input()
+b = input()
 print()
