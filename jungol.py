@@ -66,6 +66,21 @@
 # print(b)
 
 #변수와 입력 - 자가진단 3
-a = input()
-b = input()
-print()
+# a = 55
+# b = 10
+# c = 2008
+# d = 1999
+# print(a,'-',b,'=',a-b)
+# print(c,'-',d,'=',c-d)
+
+#변수와 입력 - 자가진단 4
+# a = 49
+# b = 0.2683
+# print(a,'*',b,'=', a*b)
+
+#변수와 입력 - 자가진단 5
+
+#변수와 입력 - 자가진단 7
+garo = int(input())
+sero = int(input())
+print(garo)
