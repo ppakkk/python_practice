@@ -79,8 +79,28 @@
 # print(a,'*',b,'=', a*b)
 
 #변수와 입력 - 자가진단 5
+# print("School?",end='')
+# a = input()
+# print("Your school is .",format(a))
+# print(" Your school is",a,end='.')
+
+#변수와 입력 - 자가진단 6
+# print("Number 1?",end='')
+# a = int(input())
+# print(" Number 2? ",end='')
+# b = int(input())
+# print(a,"*",b,"=",a*b)
+# print(a,"/",b,"=",a/b)
 
 #변수와 입력 - 자가진단 7
-garo = int(input())
-sero = int(input())
-print(garo)
+# print("Garo : ")
+# a =input()
+# print("Sero : ")
+# b =input()
+# print(a*b)
+
+# print("hello world!")
+
+a=input()
+b=input()
+print("a의 값은=",a,"b의 값은=",b)
