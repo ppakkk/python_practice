@@ -93,14 +93,47 @@
 # print(a,"/",b,"=",a/b)
 
 #변수와 입력 - 자가진단 7
-# print("Garo : ")
-# a =input()
-# print("Sero : ")
-# b =input()
+# print("Garo : ",end='')
+# a =float(input())
+# print("Sero : ",end='')
+# b =float(input())
 # print(a*b)
 
-# print("hello world!")
+#변수와 입력 - 자가진단 8
+# a=input()
+# b=input()
+# c=input()
+# print(a)
+# print(b)
+# print(c)
 
-a=input()
-b=input()
-print("a의 값은=",a,"b의 값은=",b)
+#연산자 - 자가진단 1
+# a=int(input())
+# b=int(input())
+# c=int(input())
+# print("sum :",a+b+c)
+# print("avg :",int((a+b+c)/3))
+
+#연산자 - 자가진단 2-1
+# a =int(input())
+# print(a)
+# b= a+2
+# print(b)
+
+#연산자 - 자가진단 2-2
+# a=int(input())+100
+# b=int(input())%10
+# print(a,b)
+
+#연산자 - 자가진단 2-3
+# a=int(input())
+# b=int(input())
+# c=b-1
+# d=a*c
+# print(a+1, b-1,d)
+
+#연산자 - 자가진단 3
+a=int(input())
+b=int(input())
+print(a==b)
+print(a!=b)
