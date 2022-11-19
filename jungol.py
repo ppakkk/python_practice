@@ -133,7 +133,11 @@
 # print(a+1, b-1,d)
 
 #연산자 - 자가진단 3
+# a=int(input())
+# b=int(input())
+# print(a==b)
+# print(a!=b)
+
+#연산자 - 자가진단 4
 a=int(input())
 b=int(input())
-print(a==b)
-print(a!=b)
