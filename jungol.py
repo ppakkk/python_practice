@@ -139,5 +139,8 @@
 # print(a!=b)
 
 #연산자 - 자가진단 4
-a=int(input())
-b=int(input())
+# a=int(input())
+# b=int(input())
+
+#Codeup - 4011 : 생년월일 출력
+a=input()
