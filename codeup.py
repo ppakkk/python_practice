@@ -21,4 +21,39 @@
 # print("\"C:\\Download\\\'hello'.py\"")
 
 #Codeup - 6008
-print()
+# print("""print("Hello\\nWorld")""")
+
+#Codeup - 6009
+# a=input()
+# print(a)
+
+#Codeup - 6010
+# n= input()
+# n = int(n)
+# print(n)
+
+#Codeup - 6011
+# a= input()
+# a= float(a)
+# print(a)
+
+#Codeup - 6012
+# a = input()
+# b= input()
+# a = int(a)
+# b = int(b)
+# print(a)
+# print(b)
+
+#Codeup - 6013
+# a = input()
+# b = input()
+# print(b)
+# print(a)
+
+#Codeup - 6014
+# a = input()
+# print(a)
+# print(a)
+# print(a)
+
