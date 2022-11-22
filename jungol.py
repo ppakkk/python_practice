@@ -142,5 +142,3 @@
 # a=int(input())
 # b=int(input())
 
-#Codeup - 4011 : 생년월일 출력
-a=input()

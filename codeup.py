@@ -12,4 +12,13 @@
 # print("'Hello'")
 
 #Codeup - 6005
-print('"Hello World"')
+# print('"Hello World"')
+
+#Codeup - 6006
+# print("\"!@#$%^&*()\'")
+
+#Codeup - 6007
+# print("\"C:\\Download\\\'hello'.py\"")
+
+#Codeup - 6008
+print()
