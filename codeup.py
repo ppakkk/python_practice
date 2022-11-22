@@ -57,3 +57,25 @@
 # print(a)
 # print(a)
 
+#Codeup - 6015
+# a,b = input().split()
+# a = int(a)
+# b = int(b)
+# print(a)
+# print(b)
+
+#Codeup - 6016
+# c1,c2 = input().split()
+# print(c2,c1)
+
+#Codeup - 6017
+# s = input()
+# print(s,s,s)
+
+#Codeup - 6018
+# a,b = input().split(':')
+# print(a,b,sep=':')
+
+#Codeup - 6019
+y,m,d = input().split('.')
+print(d,"-",m,"-",y,end="")
