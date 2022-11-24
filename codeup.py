@@ -77,5 +77,9 @@
 # print(a,b,sep=':')
 
 #Codeup - 6019
-y,m,d = input().split('.')
-print(d,"-",m,"-",y,end="")
+# y,m,d = input().split('.')
+# print(d,"-",m,"-",y end=",")
+
+#Codeup - 6020
+a = input()
+print(a,end='-')
